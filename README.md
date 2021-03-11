@@ -9,7 +9,7 @@ Using autoML, below tasks are achieved
 * Custom training (Image recognition using app)
 
 part 2
-End2End deployment of a vision model using automl to mobile device
-Execution of automl vision and timeseries forcasting models
+* End2End deployment of a vision model using automl to mobile device
+* Execution of automl vision and timeseries forcasting models
 
 
