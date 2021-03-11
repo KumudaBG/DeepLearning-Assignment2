@@ -2,10 +2,10 @@
 
 part 1
 Using autoML, below tasks are achieved
-* Image classification 
-* Text classification
-* Video clasification
-* Tabular classification
+* Image dataset classification 
+* Text dataset classification
+* Video dataset clasification
+* Tabular dataset classification
 * Custom training (Image recognition using app)
 
 part 2
