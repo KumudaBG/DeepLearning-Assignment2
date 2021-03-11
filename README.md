@@ -1,7 +1,7 @@
 # DeepLearning-Assignment2
 
 part 1
--Using autoML, below tasks are achieved
+* Using autoML, below tasks are achieved
 * Image classification 
 * Text classification
 * Video clasification
